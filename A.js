@@ -1,4 +1,4 @@
 Hello
 Hi
-Namasthey Mawa bro
+bro
 ok
